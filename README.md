@@ -1,0 +1,2 @@
+# nginxtest
+nginx domain test
